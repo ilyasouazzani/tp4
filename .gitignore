@@ -1,0 +1,23 @@
+# Fichiers système et IDE
+.vscode/
+.idea/
+*.log
+
+# Scripts utilitaires locaux
+*.py
+
+# Dossiers d'images et rapports locaux
+images/
+*.pdf
+*.tex
+
+# LaTeX build artifacts
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.toc
+*.lot
+*.lof
